@@ -34,3 +34,9 @@
 - 1 point - Task 3
 - 1 point - Task 4
 - 1 point - Task 5
+
+## How to submit
+1. Fork this repository (https://github.com/podkolzzzin/SDPLabs)
+2. Create a new branch with your name
+3. Commit your changes to the new branch
+4. Create a pull request to the `main` branch of this repository
